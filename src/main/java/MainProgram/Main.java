@@ -1,7 +1,14 @@
 package MainProgram;
 
+/**
+ * Main class
+ */
 public class Main {
+    /**
+     * Entry point
+     * @param args useless
+     */
     public static void main(String[] args) {
-        System.out.println("Hi");
+        new MainProgram();
     }
 }
