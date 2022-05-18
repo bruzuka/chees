@@ -1,0 +1,19 @@
+[Event "Unknown"]
+[Site "Unknown"]
+[Date "2022-05-18 at 10:09:45 CEST"]
+[Round "Unknown"]
+[White "Unknown"]
+[Black "Unknown"]
+[Result "*"]
+false
+White time: 9:49
+Black time: 9:58
+1. h2-h3 f7-f5
+W
+2
+WW
+
+
+P01ft P11ft P21ft P31ft P41ft P51ft P61ft P72ff R00t N10 B20 Q30 K40tf B50 N60 R70t 
+p06ft p16ft p26ft p36ft p46ft p54tf p66ft p76ft r07t n17 b27 q37 k47tf b57 n67 r77t 
+p06ft p16ft p26ft p36ft p46ft p56ft p66ft p76ft r07t n17 b27 q37 k47tf b57 n67 r77t P01ft P11ft P21ft P31ft P41ft P51ft P61ft P71ft R00t N10 B20 Q30 K40tf B50 N60 R70t 
